@@ -1,0 +1,27 @@
+1. What is the default value of an int variable in Java?
+= 0
+2. Which loop is best used when the number of iterations is known??
+= for
+3. What is the correct way to call scanner class?
+= Scanner input= new Scanner(System.in);
+4. Which operator is used for 'not equal to' in Java?
+= '!='
+5. How many times will the following loop run?
+= 10
+6. What is the output of the following code?
+= 'bc'
+7. What will be the output of the given code
+int a = 4;
+int b = 2;
+a=a+b;
+b=a*b;
+a=a*b;
+System.out.print(a+","+b);
+= 72,12
+8. What will be the output of the given code
+byte x = 12;
+x++;
+x++;
+System.out.print(x);
+= 14
+
